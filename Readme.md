@@ -6,4 +6,3 @@
 5. Añade tu propio repositorio remoto llamado repo_metodo3
 6. Sube los cambios al nuevo repositorio remoto
 7. Edita el archivo Readme.md para explicar el proceso realizado y sube los cambios
-Holak
